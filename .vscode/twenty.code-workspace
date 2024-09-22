@@ -1,47 +1,47 @@
 {
   "folders": [
     {
-      "name": "ROOT",
+      "name": "🌳 ROOT",
       "path": "../"
     },
     {
-      "name": "packages/twenty-chrome-extension",
+      "name": "📶 Chrome Extension",
       "path": "../packages/twenty-chrome-extension"
     },
     {
-      "name": "packages/twenty-docker",
+      "name": "🐋 Twenty Docker",
       "path": "../packages/twenty-docker"
     },
     {
-      "name": "packages/twenty-front",
+      "name": "🏪 Twenty Front",
       "path": "../packages/twenty-front"
     },
     {
-      "name": "packages/twenty-ui",
+      "name": "💅 Twenty UI",
       "path": "../packages/twenty-ui"
     },
     {
-      "name": "packages/twenty-emails",
+      "name": "📧 Twenty Emails",
       "path": "../packages/twenty-emails"
     },
     {
-      "name": "packages/twenty-postgres",
+      "name": "🐘 Twenty Postgres",
       "path": "../packages/twenty-postgres"
     },
     {
-      "name": "packages/twenty-server",
+      "name": "🖥 Twenty Server",
       "path": "../packages/twenty-server"
     },
     {
-      "name": "packages/twenty-utils",
+      "name": "🧰 Twenty Utils",
       "path": "../packages/twenty-utils"
     },
     {
-      "name": "packages/twenty-zapier",
+      "name": "🤖 Twenty Zapier",
       "path": "../packages/twenty-zapier"
     },
     {
-      "name": "tools/eslint-rules",
+      "name": "📏 Eslint Rules",
       "path": "../tools/eslint-rules"
     },
   ],
